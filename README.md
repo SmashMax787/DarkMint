@@ -25,7 +25,7 @@
 
 > To remove the file completly follow these simple instructions:
 
-###### Open file explorer and look for the directory "C:\Users\{Log in User Name}\AppData\Local\Google\Chrome\User Data\Default\Extensions\dclibkioaocalobfdfgfiogidcecfjca"
+###### Open file explorer and look for the directory "C:\Users\ {Log in User Name} \AppData\Local\Google\Chrome\User Data\Default\Extensions\dclibkioaocalobfdfgfiogidcecfjca"
 
-###### Then remove the folder founf inside, should be named "0.0.1_0"
+###### Then remove the folder found inside, should be named "0.0.1_0"
 
