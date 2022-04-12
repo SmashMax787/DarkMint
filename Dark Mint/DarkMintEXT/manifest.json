@@ -1,0 +1,89 @@
+{
+    "name": "__MSG_name__",
+    "description": "__MSG_description__",
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "default_locale": "en",
+    "icons": {
+        "128": "icon.png"
+    },
+    "theme": {
+        "colors": {
+            "bookmark_text": [
+                187, 241, 221
+            ],
+            "tab_text": [
+                186, 240, 219
+            ],
+            "tab_background_text": [
+                127, 164, 150
+            ],
+            "omnibox_background": [
+                27, 36, 33
+            ],
+            "ntp_background": [
+                17, 23, 20
+            ],
+            "toolbar": [
+                31, 67, 55
+            ],
+            "frame_inactive": [
+                24, 51, 42
+            ],
+            "background_tab_inactive": [
+                39, 51, 47
+            ],
+            "background_tab_incognito": [
+                57,
+                65,
+                76
+            ],
+            "background_tab_incognito_inactive": [
+                57,
+                65,
+                76
+            ],
+            "frame_incognito": [
+                72,
+                82,
+                102
+            ],
+            "frame_incognito_inactive": [
+                72,
+                82,
+                102
+            ],
+            "background_tab": [
+                47, 68, 55
+            ],
+            "omnibox_text": [
+                186, 240, 219
+            ],
+            "ntp_text": [
+                186, 240, 219
+            ],
+            "frame": [
+                36, 51, 41
+            ],
+            "ntp_link": [
+                186, 240, 219
+            ],
+            "ntp_header": [
+                186, 240, 219
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.577777777,
+                1.4555555555,
+                0.774888888888
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "top"
+        },
+        "images": {
+            "theme_ntp_background": "theme_ntp_background.png"
+        }
+    }
+}
